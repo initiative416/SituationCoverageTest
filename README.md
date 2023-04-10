@@ -92,9 +92,7 @@
 
 ### 1.4 搭建Situation Coverage-based AV-Testing框架
 
-1. [下载github上对应项目文件](https://github.com/zaidtahirbutt/Situation-Coverage-based-AV-Testing-Framework-in-CARLA)
-
-   ![image-20230410144902547](http://github.com/initiative416/SituationCoverageTest/raw/main/image-20230410144902547.png)
+1. 下载云效上对应的SituationCoverageTest项目
 
 2. 到Carla安装目录下，将项目中clone的PythonAPI文件替换原Carla中的PythonAPI文件
 
