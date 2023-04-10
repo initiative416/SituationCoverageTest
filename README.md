@@ -155,7 +155,7 @@
 
 ## 2 可能遇到的问题
 
-<img src="https://user-images.githubusercontent.com/25262332/147320344-826c573b-4016-4d0a-b0fa-434f76c82040.png">
+![image-demo](https://user-images.githubusercontent.com/25262332/147320344-826c573b-4016-4d0a-b0fa-434f76c82040.png)
 
 1. [解决：Module Not Found Error: No module named 'object_detection'](https://blog.csdn.net/liubing8609/article/details/115264592)
 
