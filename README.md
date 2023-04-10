@@ -40,7 +40,7 @@
 
    链接：https://mirrors.sustech.edu.cn/carla/
 
-   ![image-20230410143344448](/home/lulu/.config/Typora/typora-user-images/image-20230410143344448.png)
+   ![image-20230410143344448](http://github.com/initiative416/SituationCoverageTest/raw/main/image-20230410143344448.png)
 
    下载完毕后将两个压缩包解压后，放在新创建的CARLA_0.9.10.1文件夹中
 
@@ -154,6 +154,8 @@
    ```
 
 ## 2 可能遇到的问题
+
+<img src="https://user-images.githubusercontent.com/25262332/147320344-826c573b-4016-4d0a-b0fa-434f76c82040.png">
 
 1. [解决：Module Not Found Error: No module named 'object_detection'](https://blog.csdn.net/liubing8609/article/details/115264592)
 
